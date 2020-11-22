@@ -1,4 +1,7 @@
 # figures-rs
+[![version](https://img.shields.io/crates/v/figures-rs.svg)](https://crates.io/crates/figures-rs)
+[![Documentation](https://docs.rs/figures-rs/badge.svg)](https://docs.rs/figures-rs)
+
 Port of figures lib to rust
 > Unicode symbols with Windows CMD fallbacks
 
