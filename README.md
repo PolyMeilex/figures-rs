@@ -5,7 +5,14 @@
 Port of figures lib to rust
 > Unicode symbols with Windows CMD fallbacks
 
-[![](screenshot.png)](index.js)
+![screenshot](screenshot.png)
+
+## Fallbacks
+If you don't want to support Window CMD you can disable it with
+```toml
+figures-rs = { version = "*", default-features = false }
+```
+Then universal symbols will be used instead.
 
 ## Figures
 
