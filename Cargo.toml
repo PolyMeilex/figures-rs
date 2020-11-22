@@ -1,8 +1,13 @@
 [package]
 name = "figures-rs"
 version = "0.0.1"
-authors = ["Poly <marynczak.bartlomiej@gmail.com>"]
 edition = "2018"
+
+authors = ["Poly <marynczak.bartlomiej@gmail.com>"]
+description = "Unicode symbols with Windows CMD fallbacks"
+licence = "MIT"
+repository = "https://github.com/PolyMeilex/figures-rs"
+documentation = "https://docs.rs/figures-rs"
 
 
 [features]
